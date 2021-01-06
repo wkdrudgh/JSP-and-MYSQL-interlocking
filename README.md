@@ -3,8 +3,8 @@ MYSQL연동 및 테스트
 
 외부 라이브러리
 ------
-    1. mysql-connector-java-5.1.47.jar
-    > jdbc드라이버, 데이터베이스 접속을 위해 사용
+1. mysql-connector-java-5.1.47.jar<br/>
+- jdbc드라이버, 데이터베이스 접속을 위해 사용
 
 MYSQL 연동 클래스 만들기
 --------
