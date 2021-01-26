@@ -8,7 +8,7 @@ MYSQL연동 및 테스트
 
 MYSQL 연동 클래스 만들기
 ----------
-``````JAVA
+````````JAVA
 package util;
 
 import java.sql.Connection;
@@ -30,4 +30,4 @@ public class DatabaseUtil {
 	}
 }
 
-`````
+```````
